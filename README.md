@@ -67,7 +67,7 @@ closes #your_issue_no
 
 ## Thanks to the Contributors
 
-<a href="https://github.com/utkarsh-chaurasia/Hacktoberfest-2021)
+<a href="https://github.com/utkarsh-chaurasia/Hacktoberfest-2021">
   <img src="https://contrib.rocks/image?repo=utkarsh-chaurasia/Hacktoberfest-2021" />
 </a>
 
